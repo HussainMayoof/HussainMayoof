@@ -1,0 +1,13 @@
+.top-buffer{
+    margin-top: 50px;
+}
+
+img{
+    max-width: 300px;
+}
+
+@media screen and (max-width: 578px) {
+    img{
+        margin-top: 20px;
+    }
+}
